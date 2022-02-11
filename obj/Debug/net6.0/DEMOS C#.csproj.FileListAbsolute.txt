@@ -1,0 +1,15 @@
+C:\Users\leone\Desktop\DEMOS C#\bin\Debug\net6.0\DEMOS C#.exe
+C:\Users\leone\Desktop\DEMOS C#\bin\Debug\net6.0\DEMOS C#.deps.json
+C:\Users\leone\Desktop\DEMOS C#\bin\Debug\net6.0\DEMOS C#.runtimeconfig.json
+C:\Users\leone\Desktop\DEMOS C#\bin\Debug\net6.0\DEMOS C#.dll
+C:\Users\leone\Desktop\DEMOS C#\bin\Debug\net6.0\ref\DEMOS C#.dll
+C:\Users\leone\Desktop\DEMOS C#\bin\Debug\net6.0\DEMOS C#.pdb
+C:\Users\leone\Desktop\DEMOS C#\obj\Debug\net6.0\DEMOS C#.csproj.AssemblyReference.cache
+C:\Users\leone\Desktop\DEMOS C#\obj\Debug\net6.0\DEMOS C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\Desktop\DEMOS C#\obj\Debug\net6.0\DEMOS C#.AssemblyInfoInputs.cache
+C:\Users\leone\Desktop\DEMOS C#\obj\Debug\net6.0\DEMOS C#.AssemblyInfo.cs
+C:\Users\leone\Desktop\DEMOS C#\obj\Debug\net6.0\DEMOS C#.csproj.CoreCompileInputs.cache
+C:\Users\leone\Desktop\DEMOS C#\obj\Debug\net6.0\DEMOS C#.dll
+C:\Users\leone\Desktop\DEMOS C#\obj\Debug\net6.0\ref\DEMOS C#.dll
+C:\Users\leone\Desktop\DEMOS C#\obj\Debug\net6.0\DEMOS C#.pdb
+C:\Users\leone\Desktop\DEMOS C#\obj\Debug\net6.0\DEMOS C#.genruntimeconfig.cache
